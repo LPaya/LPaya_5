@@ -159,7 +159,6 @@ transition: 1.2s ease;
     padding: 12px 0;
     width: max(21.96vw, 270px);
     height: max(7.32vw, 90px);
-    background-color: #c1c1c1;
     color: #1f51ff;
     font-size: 3.81vw;
     text-decoration: none;
@@ -528,7 +527,7 @@ h4 {
     .CTA {
         width: max(46.3vw, 200px);
         height: max(7.41vw, 32px);
-        font-size: 7.04vw;
+        font-size: 5.04vw;
         padding: 20px 0;
     }
 
@@ -594,4 +593,5 @@ h4 {
         width: 91%;
     }
 }
+
 
